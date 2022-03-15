@@ -1,0 +1,1 @@
+let numero1=Number(prompt("digite un numero"))
